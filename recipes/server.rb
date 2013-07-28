@@ -1,8 +1,11 @@
 #
 # Cookbook Name:: mumble
-# Recipe:: default
+# Recipe:: server
 #
 # Copyright (C) 2013 Stephen Hibit
 # 
 # All rights reserved - Do Not Redistribute
 #
+
+
+package "murmur"
